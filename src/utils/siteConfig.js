@@ -18,4 +18,6 @@ module.exports = {
   backgroundColor: '#e9e9e9', // Used for Offline Manifest
   themeColor: '#121212', // Used for Offline Manifest
   copyright: 'Copyright © 2018 GCN User', // Copyright string for the RSS feed
+  spaceId: 'gqe4q7fb6kln',
+  accessToken: 'FPMWYBbWdUb3IhjPH-8Ac6BXlH_976ow-o7qyJO9p60',
 }
