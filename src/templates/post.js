@@ -57,7 +57,7 @@ export const query = graphql`
           content
         }
       }
-      publishDate(formatString: "MMMM DD, YYYY")
+      publishDate(formatString: "MMM DD, YYYY")
       publishDateISO: publishDate(formatString: "YYYY-MM-DD")
       tags {
         title

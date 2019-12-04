@@ -20,7 +20,7 @@ const Contact = ({ data }) => {
       <SEO postNode={postNode} pagePath="contact" customTitle />
 
       <Container>
-        <PageTitle>Contact</PageTitle>
+        <PageTitle>Kontakt os.</PageTitle>
         <ContactForm />
       </Container>
     </Layout>
